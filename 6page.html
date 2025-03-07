@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RS & S-Series</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .background-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2021-09/audi_rs_7_front_1.jpg?itok=1S2Ph9Gr') no-repeat center center/cover;
+            z-index: -1;
+            filter: blur(5px);
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            color: white;
+            padding: 20px;
+            overflow: hidden;
+            background: rgba(0, 0, 0, 0.7);
+        }
+
+        .content {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 40px;
+            border-radius: 15px;
+            max-width: 900px;
+            width: 100%;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            transition: transform 0.3s ease;
+        }
+
+        .content:hover {
+            transform: scale(1.05);
+        }
+
+        .content-text {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: #ff0000;
+            text-shadow: 0 0 8px rgba(255, 0, 0, 0.7);
+        }
+
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        ul {
+            font-size: 1rem;
+            line-height: 1.8;
+            margin-bottom: 20px;
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .button {
+            display: block;
+            width: fit-content;
+            margin: 20px auto 0;
+            padding: 12px 30px;
+            font-size: 1.1rem;
+            color: white;
+            background: #FF4C4C;
+            border-radius: 50px;
+            text-transform: uppercase;
+            text-decoration: none;
+            transition: 0.3s ease;
+            font-weight: bold;
+            box-shadow: 0 0 15px rgba(255, 0, 0, 0.8);
+            text-align: center;
+        }
+
+        .button:hover {
+            background: white;
+            color: red;
+            box-shadow: 0 0 20px rgba(255, 0, 0, 1);
+            transform: scale(1.05);
+        }
+
+        .content-img {
+            max-width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="background-container"></div>
+    
+    <div class="content">
+        <div class="content-text">
+            <h1>RS & S-Series</h1>
+            <p>Modele sport de înaltă performanță, create pentru adrenalină și dinamică de top.</p>
+            
+            <p><strong>Caracteristici principale:</strong></p>
+            <ul>
+                <li>✔ Motorizări puternice și tehnologie de curse</li>
+                <li>✔ Design agresiv și aerodinamic</li>
+                <li>✔ Tracțiune quattro pentru aderență maximă</li>
+                <li>✔ Suspensie sportivă pentru o manevrabilitate precisă</li>
+                <li>✔ Interior sport cu accente premium</li>
+            </ul>
+            
+            <p>RS & S-Series sunt dedicate pasionaților de performanță pură, care vor viteză, control și emoție la volan.</p>
+            
+            <a href="3page.html" class="button">Înapoi</a>
+        </div>
+        <div>
+            <img src="https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2021-09/audi_rs_7_front_1.jpg?itok=1S2Ph9Gr" alt="RS & S-Series" class="content-img">
+        </div>
+    </div>
+</body>
+</html>
