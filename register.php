@@ -37,7 +37,7 @@
             <p id="error-message" class="error-message"></p>
         </form>
 
-        <p>Ai deja un cont? <a href="login.html">Autentifică-te</a></p>
+        <p>Ai deja un cont? <a href="login.php">Autentifică-te</a></p>
     </div>
 
     <script src="js/register.js"></script>

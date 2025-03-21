@@ -26,7 +26,7 @@
             
             <p>A-Series este alegerea ideală pentru cei care doresc un echilibru între performanță, tehnologie și stil sofisticat.</p>
             
-            <a href="3page.html" class="button">Înapoi</a>
+            <a href="3page.php" class="button">Înapoi</a>
         </div>
         <div>
             <img src="https://cdn.motor1.com/images/mgl/nn6YR/s3/2020-audi-a7-sportback-e-quattro.webp" alt="A-Series" class="content-img">

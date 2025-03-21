@@ -20,5 +20,5 @@ document.getElementById("login-form").addEventListener("submit", function (event
     }
 
     alert(`Bine ai venit, ${user.username}!`);
-    window.location.href = "3page.html"; 
+    window.location.href = "3page.php"; 
 });

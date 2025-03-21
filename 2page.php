@@ -11,8 +11,8 @@
     <div class="background-container"></div>
 
     <div class="top-buttons">
-        <a href="register.html" class="button">Register</a>
-        <a href="login.html" class="button">Login</a>
+        <a href="register.php" class="button">Register</a>
+        <a href="login.php" class="button">Login</a>
     </div>
 
     <div class="content">
@@ -20,7 +20,7 @@
         <p>Istoria Audi este una dintre cele mai colorate povești din istoria automobilelor în general. Emblema Audi cu cele patru cercuri reprezintă una dintre cele mai vechi uzine de automobile din Germania și unirea în 1932 a patru producători de vehicule: Audi, DKW, Horch și Wanderer.</p>
     </div>
 
-    <a href="1page.html" class="back-button">
+    <a href="1page.php" class="back-button">
         <i class="fa fa-arrow-left"></i> Înapoi
     </a>
 </body>

@@ -121,7 +121,7 @@
 <body>
     <div class="background-container"></div>
 
-    <a href="2page.html" class="back-button">
+    <a href="2page.php" class="back-button">
         <i class="fa fa-arrow-left"></i> Înapoi
     </a>
 
@@ -130,7 +130,7 @@
         <h2>Simbol al Performanței și Tehnologiei</h2>
         <p>Descoperă modelele de top ale brandului Audi.</p>
         <div class="cards">
-            <a href="4page.html" class="card">
+            <a href="4page.php" class="card">
                 <!-- Imaginea A-Series direct de pe internet -->
                 <img src="https://cdn.motor1.com/images/mgl/nn6YR/s3/2020-audi-a7-sportback-e-quattro.webp" alt="A-Series">
                 <h3>A-Series</h3>
@@ -140,7 +140,7 @@
                     <li>Ideal business</li>
                 </ul>
             </a>
-            <a href="5page.html" class="card">
+            <a href="5page.php" class="card">
                 <!-- Imaginea Q-Series direct de pe internet -->
                 <img src="https://cdn11.bigcommerce.com/s-q5z3jegn8k/product_images/uploaded_images/audi-4l-q8-1680x752.jpg" alt="Q-Series">
                 <h3>Q-Series</h3>
@@ -150,7 +150,7 @@
                     <li>Aventură & familie</li>
                 </ul>
             </a>
-            <a href="6page.html" class="card">
+            <a href="6page.php" class="card">
                 <!-- Imaginea RS-Series direct de pe internet -->
                 <img src="https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2021-09/audi_rs_7_front_1.jpg?itok=1S2Ph9Gr" alt="RS-Series">
                 <h3>RS & S-Series</h3>

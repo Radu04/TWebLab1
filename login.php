@@ -24,7 +24,7 @@
             <button type="submit" class="login-button">Autentifică-te</button>
             <p id="error-message" style="color: red;"></p>
         </form>
-        <p>Nu ai cont? <a href="register.html">Înregistrează-te aici</a></p>
+        <p>Nu ai cont? <a href="register.php">Înregistrează-te aici</a></p>
     </div>
 
     <script src="js/login.js"></script>

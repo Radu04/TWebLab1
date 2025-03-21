@@ -1,5 +1,5 @@
 function goTo2page() {
-    window.location.href = '2page.html';
+    window.location.href = '2page.php';
 }
 
 document.querySelector('.canvas').addEventListener('click', () => {

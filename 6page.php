@@ -26,7 +26,7 @@
             
             <p>RS & S-Series sunt dedicate pasionaților de performanță pură, care vor viteză, control și emoție la volan.</p>
             
-            <a href="3page.html" class="button">Înapoi</a>
+            <a href="3page.php" class="button">Înapoi</a>
         </div>
         <div>
             <img src="https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2021-09/audi_rs_7_front_1.jpg?itok=1S2Ph9Gr" alt="RS & S-Series" class="content-img">

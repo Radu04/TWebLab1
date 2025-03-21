@@ -26,7 +26,7 @@
             
             <p>Q-Series este perfect pentru cei care vor spațiu, siguranță și flexibilitate, fie în oraș, fie în aventurile off-road.</p>
             
-            <a href="3page.html" class="button">Înapoi</a>
+            <a href="3page.php" class="button">Înapoi</a>
         </div>
         <div>
             <img src="https://cdn11.bigcommerce.com/s-q5z3jegn8k/product_images/uploaded_images/audi-4l-q8-1680x752.jpg" alt="Q-Series" class="content-img">

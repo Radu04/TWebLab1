@@ -29,5 +29,5 @@ document.getElementById("register-form").addEventListener("submit", function (ev
     localStorage.setItem("users", JSON.stringify(users));
 
     alert("Înregistrare reușită! Acum te poți autentifica.");
-    window.location.href = "login.html";
+    window.location.href = "login.php";
 });
